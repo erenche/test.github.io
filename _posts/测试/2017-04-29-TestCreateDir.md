@@ -1,7 +1,7 @@
 ---
 layout: post
-title: C/C++内存分配
-category: 技术
+title: 测试一下
+category: 测试
 tags: C/C++
 keywords: 
 程序的内存分配: 
