@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 珠海游记
-category: 生活
-tags: 游记
+category: 游记
+tags: Travels
 keywords: 
 珠海游记
 ---
