@@ -2,7 +2,7 @@
 layout: post
 title: 珠海游记
 category: 游记
-tags: Travels
+tags: 游记
 keywords: 
 珠海游记
 ---
