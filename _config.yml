@@ -32,13 +32,13 @@ disqus:
 active: 读书
 
 # 首页除了最新文章外显示分类
-cates: 
-  - Optimization
-  - LaTeX
+#cates: 
+ # - Optimization
+  #- LaTeX
 
 # 中文本地化
 locals:
   tags: 标签
   newest: 最新文章
   archive: 归档
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
