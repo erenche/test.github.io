@@ -16,17 +16,6 @@ description: My personal blog
 url: http://wangbobo.top
 rss_url: /pages/atom.xml
 
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?ad708d78a42923675f5f18bfed5725c8";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-
-
 # gavatar头像及Favicon
 gavatar: /public/img/deer3.png
 favicon: /public/img/deer3.png
